@@ -9,7 +9,7 @@ A util to format dynamic data type
     json_pase_util: *.*.*
    ````
 
-````swift
+````java
 import 'package:json_pase_util/json_pase_util.dart'
 
 class Person {
