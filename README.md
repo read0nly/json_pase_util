@@ -5,10 +5,12 @@ A util to format dynamic data type
 
 ## Using
 
-`dependencies:
-   json_pase_util: *.*.*`
+````yaml dependencies:
+    json_pase_util: *.*.*
+   ````
 
-`import 'package:json_pase_util/json_pase_util.dart'
+````swift
+import 'package:json_pase_util/json_pase_util.dart'
 
 class Person {
   String name;
@@ -36,4 +38,4 @@ class Person {
     
   }
 }
-`
+````

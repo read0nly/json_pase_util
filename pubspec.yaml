@@ -1,8 +1,8 @@
 name: json_pase_util
 description: A util to format dynamic data type
 version: 0.0.1
-author:
-homepage:
+author: nj.readonly@gmail.com
+homepage: https://github.com/read0nly/json_pase_uti
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
